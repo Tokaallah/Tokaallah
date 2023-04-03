@@ -28,7 +28,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Iam ALX Africa School student in Software engineering program.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TokaAllah-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/tokaallah-hussein-65840548/))
 
